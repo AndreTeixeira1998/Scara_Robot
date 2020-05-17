@@ -1,4 +1,4 @@
-
+#SCARA ROBOT with ATMEGA328P
 ## Building and running screen -l /dev/ttyACM0 -s 9600      killall screen
 
 ### Dependencies
