@@ -1,5 +1,3 @@
-This is a simple C program which blinks an LED on the Arduino Uno, transmitting
-a message via the serial link whenever it does so.
 
 ## Building and running screen -l /dev/ttyACM0 -s 9600      killall screen
 
